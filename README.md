@@ -1,2 +1,2 @@
 # first-repository
-first tried repository 
+first tried repository.
